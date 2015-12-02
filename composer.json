@@ -1,0 +1,15 @@
+{
+    "name": "creitive/smtp-test",
+    "description": "SMTP Tester Tool",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "vlucas/phpdotenv": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Milos Levacic",
+            "email": "milos@levacic.net"
+        }
+    ],
+    "minimum-stability": "stable"
+}
